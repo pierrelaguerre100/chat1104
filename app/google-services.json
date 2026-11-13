@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364582033873",
+    "project_id": "chatapp-pierre",
+    "storage_bucket": "chatapp-pierre.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364582033873:android:e8e3dd2bdb2fef26f828f0",
+        "android_client_info": {
+          "package_name": "com.example.chat1104"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEvHvJcF0-EbobDCQZl2HSOvPE8VVajms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

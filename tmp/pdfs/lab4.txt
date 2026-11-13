@@ -1,0 +1,60 @@
+Project Title: Sign in/up App for Android with Firebase 
+ 
+Project Description: 
+This project entails developing an Android application that facilitates user authentication and 
+registration using Firebase as the backend database. The app will feature a sleek user interface 
+allowing users to login, register, and manage their profiles securely and efficiently. 
+ 
+Key Requirements and Features: 
+ 
+1. Sign in View: 
+ • Users can Sign in using their email and password. 
+ • A link or button is available to navigate to the registration interface if the user needs to 
+create a new account. 
+ • Your primary color: FFD83D68  
+ 
+2. Sign Up View: 
+ • Allows new users to register by providing their first name, last name, email, and a 
+password. 
+ • Users are required to confirm their password to enhance security measures. 
+ • A feature to upload personal photos to customize their profile. 
+ • Form validation to ensure all fields are filled; if not, a toast message alerts the user to 
+provide the necessary information. 
+ • A link or button to switch back to the Sign in interface for existing users. 
+3. Firebase Integration: 
+ • Utilizes Firebase for backend data storage, including storing user credentials and profile 
+images. 
+ • Secure authentication mechanism through Firebase Auth to handle login and registration 
+processes. 
+4. App Icon: 
+ • The application will have a custom icon that represents the purpose of the app. 
+5. GitHub Repository: 
+ • All code and resources will be maintained in a GitHub repository. 
+6. Javadoc Comments: Provide comments for all functions in Javadoc format. 
+7. Show & Tells: 
+ • You need to participate in the in-class "show and tell" sessions to demo your program. 
+
+ • If you are not scheduled for an in-class "show and tell", you need to record a short video 
+to demonstrate your project. 
+ 
+Technical Specifications: 
+ • Platform: Android 
+ • Programming Language: Java 
+ • User Interface: XML for layout design, ensuring a responsive and attractive interface. 
+ 
+Submissions: (Must to submit on Canvas) 
+1. GitHub Link: Provide the URL to the GitHub repository containing all the source code, 
+resources. 
+2. Screenshots of the App in the Simulator: Highlight the use of custom images within the app 
+interface to showcase any unique graphical elements. 
+3. Sign Up Screenshot: A screenshot showing the Sign-up view filled with your name to 
+demonstrate the input fields functionality. 
+4. Toast Notification Screenshot: A screenshot capturing the display of a toast message when 
+the Sign-Up form is incompletely filled out. 
+5. Firebase Database Screenshot: A screenshot from the Firebase console showing the stored 
+user information post-registration, verifying that data is correctly captured and stored. 
+6. Successful Sign in Screenshot: A screenshot displaying a successful login toast message.  
+7. Demo Video or “Show & Tell”: You need to record a short video to demonstrate your 
+application. Please upload your demo video or screenshot of “Show & Tell” list to GitHub. 
+ 
+Total: GitHub link and 5 screenshots. 
